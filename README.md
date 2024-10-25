@@ -58,7 +58,7 @@ Select Operation
 3 - DISCHARGE SUMMARY
 4 - BILL GENERATION
 5 - EXIT
-
+```
 
 ### Data Storage Format
 
