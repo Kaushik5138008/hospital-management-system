@@ -28,7 +28,6 @@ This Hospital Management System is a Python-based application that allows for st
     ```
 
 3. The menu will display available operations, where you can choose to:
-4. ```plaintext
     - Add a patient
     - Retrieve a patient's details
     - Generate a discharge summary
@@ -52,6 +51,7 @@ The program presents the following menu for interaction:
 
 ### Example Output
 
+```plaintext
 Select Operation
 1 - ADD A PATIENT
 2 - RETRIEVE A PATIENT DETAILS
@@ -62,15 +62,14 @@ Select Operation
 ### Data Storage Format
 The program stores patient data in a CSV format with the following headers:
 
+```csv
 Id, Name, Phone_no, Email, Age, Gender, Issue
-
+```
 ### Future Enhancements
 Data Validation: Improve error handling for data entries (e.g., invalid phone numbers, age).
 Database Integration: Store data in a relational database for more robust data management.
 Enhanced UI: Develop a graphical interface for easier interaction.
-
-
-### License
+License
 This project is licensed under the MIT License.
 
 ### Acknowledgments
