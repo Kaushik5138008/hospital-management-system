@@ -28,6 +28,7 @@ This Hospital Management System is a Python-based application that allows for st
     ```
 
 3. The menu will display available operations, where you can choose to:
+4. ```plaintext
     - Add a patient
     - Retrieve a patient's details
     - Generate a discharge summary
