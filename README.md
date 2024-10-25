@@ -85,4 +85,3 @@ This project is inspired by the need to streamline and digitize hospital record-
 ---
 
 Thank you for using the Hospital Management System. We hope it assists in managing patient records efficiently.
-```
