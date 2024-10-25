@@ -1,6 +1,3 @@
-Here's a `README.md` file for your **Hospital Management System** project:
-
-```markdown
 # Hospital Management System
 
 This Hospital Management System is a Python-based application that allows for streamlined management of patient information, registration, discharge, and billing. Using CSV files to store and retrieve data, this system simplifies operations like adding new patient records, retrieving details, generating discharge summaries, and producing billing invoices.
@@ -61,7 +58,7 @@ Select Operation
 3 - DISCHARGE SUMMARY
 4 - BILL GENERATION
 5 - EXIT
-```
+
 
 ### Data Storage Format
 
